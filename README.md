@@ -202,4 +202,6 @@
 </script>
 
 </body>
-</html>
+<div class="interaction-scene">
+  <img src="https://thumbs.dreamstime.com/b/family-relationship-children-adults-seniors-17760567.jpg" alt="Family Relationship with Children, Adults, Seniors" />
+</div>
